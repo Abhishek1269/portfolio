@@ -34,7 +34,7 @@ return () => {
         data-aos-duration="2000"
         >
           <div className='img'>
-            <img src={`/assets/${profile.imgSrc}`} alt='profile'></img>
+            <img src={`./assets/${profile.imgSrc}`} alt='profile'></img>
           </div>
         </div>
         <div className='right'
