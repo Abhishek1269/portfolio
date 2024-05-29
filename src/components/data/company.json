@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "role": "Intern",
+      "organisation": "Defence Research and Development Organisation(DRDO)",
+      "startDate": "June, 2023",
+      "endDate": "August, 2023",
+      "location": "New Delhi,India",
+      "experiences": [
+        "Worked on Patch Management System Using WSUS"
+      ],
+      "imageSrc": "company/drdo_image.png"
+    },
+    {
+      "id": 2,
+      "role": "Web Development Intern",
+      "organisation": "GSA Electronic India Pvt. Ltd.",
+      "startDate": "Nov, 2022",
+      "endDate": "Jan, 2023",
+      "location": "New Delhi, India",
+      "experiences": [
+        "Worked on company website using wordpress",
+        "Worked on Login In pages of different IOT projects"
+      ],
+      "imageSrc": "company/gsaLogo.png"
+    }
+  ]
