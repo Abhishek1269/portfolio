@@ -17,7 +17,7 @@ export default function Project() {
                     <div className="card-body text-center">
                       <h5 className="card-title">{data.title}</h5>
                       <p className="card-text">{data.description}</p>
-                      <a href={data.demo} target='_blank' className="btn btn-outline-warning">Demo</a>
+                      <a href={data.demo} className="btn btn-outline-warning">Demo</a>
                     </div>
                 </div>
               </div>
